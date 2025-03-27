@@ -45,6 +45,7 @@ The best result for each benchmark is marked in bold text. Note that run to run 
 - [`tiny-ecs`](https://github.com/bvalosek/tiny-ecs)
 - [`uecs`](https://github.com/jprochazk/uecs)
 - [`wolf-ecs`](https://github.com/EnderShadow8/wolf-ecs)
+- [`elics`](https://github.com/elixr-games/elics)
 
 ## Benchmarks
 
