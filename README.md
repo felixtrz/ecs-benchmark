@@ -25,6 +25,7 @@ A suite of benchmarks designed to test and compare JavaScript ECS library perfor
 | picoes      |    6,814 |       4,223 |    12,368 |        2,679 |      4,303 |
 | tiny-ecs    |   16,391 |      35,488 |    45,760 |          194 |      1,082 |
 | uecs        |   29,855 |      14,747 |     9,861 |        1,724 |      5,207 |
+| elics       |   43,719 |      30,758 |    87,590 |        2,761 |      3,694 |
 
 The best result for each benchmark is marked in bold text. Note that run to run variance for these benchmarks is typically 1-4%. Any benchmarks within a few percent of each other should be considered “effectively equal”. The above benchmarks are run on node v17.8.0.
 
